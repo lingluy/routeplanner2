@@ -38,7 +38,7 @@ Swing is used to draw maps. There are a few challenges.
 **DistanceComparator.java** Used in the PriorityQueue to find the node with the minimum distance from the source.  
 **Edge.java Edge** implementation that also uses Haversine formula
 **Haversine.java** Code from online using Haversine formula to convert latitude/longitude to a distance  
-**Intersection.java** object holds intersection information 
+**Intersection.java** object holds intersection information  
 **MyMap.java** JFrame object  
 **MyPanel.java**  Jpanel  
 **Node.java** Node implementation  
