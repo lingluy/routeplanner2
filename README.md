@@ -18,7 +18,7 @@ r RoadID Intersection1ID Intersection2ID
  *  monroe.txt is census data for Monroe County, NY.
  *  nys.txt is census data on roads in New York State.  
 ## Output 
-![UR](https://github.com/lingluy/routeplanner2/master/images/monroe.PNG)
+![UR](images/monroe.PNG)
 
 ## Implementation
  
